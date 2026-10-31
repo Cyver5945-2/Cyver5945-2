@@ -1,4 +1,13 @@
-## Hi there 👋
+# Cyver - Profile
+Hey! I'm Cyver5945! You might find this suspicious that I am claiming another account, but no, let me explain:
+
+I used to have this old account but lost access to it - with no evidence for GitHub Support, I am using this account to try and carry on what I have done.
+
+---
+## So who am I?
+So this is me, Cyver5945 (Cyver), a programmer and coder/gamer that (obviously) uses GitHub.
+
+You can find my old profile here: https://github.com/Cyver5945
 
 <!--
 **Cyver5945-2/Cyver5945-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
